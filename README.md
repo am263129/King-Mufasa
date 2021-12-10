@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Mufasa.
-Who is Mufasa? she/he like and enjoy code. 
+## Who is Mufasa? 
+male? female? it is not important, what important is he/she is senior developer.
+so let's call him/her just Mufasa, or Fasa.
+she/he like and enjoy code. 
 having more than 5 years of frontend development and worked in over 30 project with several team.(live project only)
 but this is not the end, he/she has many side skills.
 if some one think he/she is web developer, it is wrong, 
