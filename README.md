@@ -34,12 +34,17 @@ Here are some ideas to get you started:
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=King-Mufasa&column=7"/>
 
 
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=King-Mufasa&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Mufasa&theme=dark" alt="king-mufasa" />
-</div>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Mufasa&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=King-Mufasa&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoyo930021&show_icons=true&locale=en&layout=compact&theme=dark" alt="yoyo930021" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoyo930021&show_icons=true&locale=en&theme=dark" alt="yoyo930021" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoyo930021&theme=dark" alt="yoyo930021" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Mufasa&theme=dark" alt="king-mufasa" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Mufasa&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-Mufasa&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
