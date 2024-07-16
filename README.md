@@ -29,6 +29,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](./profile-3d-contrib/profile-season-animate.svg)
-
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=King-Mufasa&column=7"/>
