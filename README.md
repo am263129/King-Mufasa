@@ -32,12 +32,3 @@ Here are some ideas to get you started:
 
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=King-Mufasa&column=7"/>
-
-<div align="center" width="100%" style="display:flex;" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=King-Mufasa&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Mufasa&theme=dark" alt="King-Mufasa"/>
-</div>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-Mufasa&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
-
