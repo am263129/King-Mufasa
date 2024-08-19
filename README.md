@@ -5,7 +5,7 @@ Focus on NFT marketplace projects and recently, get interest in BTC based game p
 React.js, Next.js, Tailwindcss is my best favourite couples.
 
 
-(Needless to say, I am man and this is my fav character Ada in RE6)
+(Needless to say, I am man and this avatar is my fav character Ada in RE6)
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->wallpaper.png
+-->
 ![](./wallpaper.png)
 ![](./profile-3d-contrib/profile-night-view.svg)
