@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Mufasa.
-## Who is Mufasa? 
+
 With over 7 years of experience in software development, I specialize in frontend engineering with a focus on creating delightful user experiences and scalable architecture.
 Focus on NFT marketplace projects and recently, get interest in BTC based game proejcts.
 React.js, Next.js, Tailwindcss is my best favourite couples.
